@@ -1,0 +1,13 @@
+{
+  "appId": "com.androidreact.com",
+  "appName": "android-react",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
