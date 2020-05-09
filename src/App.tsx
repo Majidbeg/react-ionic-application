@@ -5,7 +5,7 @@ import { IonApp } from '@ionic/react';
 import Header from './components/Headers/Headers'
 import Footer from './components/Footer/Footer'
 import Routes from './Routes'
-
+ 
 const App = () => {
     return (
       <IonApp>
